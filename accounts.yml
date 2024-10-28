@@ -5,7 +5,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs"
   contactDetails:
-    name: "Sorin"
+    name: "Sorin Popteanu"
     email: "sp@gmail.com"
   onCallSupport:
     - (+40) 731 518 101
